@@ -26,7 +26,7 @@ function browserSyncInit(baseDir, files, browser) {
       routes: routes
     },
     browser: browser,
-    port: 32879
+    port: 5683
   });
 
 }

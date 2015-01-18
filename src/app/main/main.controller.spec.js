@@ -2,6 +2,6 @@
 
 describe('controllers', function(){
 
-  beforeEach(module('ebo'));
+  beforeEach(module('kommute'));
 
 });

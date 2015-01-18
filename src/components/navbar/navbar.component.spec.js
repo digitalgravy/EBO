@@ -3,7 +3,7 @@
 describe('current date on nav bar:', function(){
   var scope;
 
-  beforeEach(module('ebo'));
+  beforeEach(module('kommute'));
 
   beforeEach(inject(function($rootScope) {
   	scope = $rootScope.$new();

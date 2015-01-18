@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('ebo')
+angular.module('kommute')
   .controller('MainCtrl', function () {
     
   });
